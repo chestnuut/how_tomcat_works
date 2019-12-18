@@ -1,0 +1,3 @@
+rootProject.name = 'how_tomcat_works'
+include 'ch01'
+
