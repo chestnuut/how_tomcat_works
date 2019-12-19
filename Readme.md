@@ -1,1 +1,1 @@
-Source code and practice for <<how tomcat works>>
+Source code and practice for \<<how tomcat works\>>
