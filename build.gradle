@@ -8,6 +8,12 @@ subprojects {
         // https://mvnrepository.com/artifact/commons-io/commons-io
         compile group: 'commons-io', name: 'commons-io', version: '2.6'
         testCompile group: 'junit', name: 'junit', version: '4.12'
+        // https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api
+        compile group: 'javax.servlet', name: 'javax.servlet-api', version: '4.0.1'
+        // https://mvnrepository.com/artifact/org.apache.tomcat/catalina
+        compile group: 'org.apache.tomcat', name: 'catalina', version: '6.0.53'
+
+
     }
     group 'me.chestnuut'
     version '1.0-SNAPSHOT'
